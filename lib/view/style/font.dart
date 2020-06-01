@@ -1,0 +1,1 @@
+const Regular='regular.otf';
